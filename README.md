@@ -96,7 +96,8 @@ To run the application, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone <repository-url>
-   cd cake-tracker
+   cd CakeTrackerApplication
+   ```
 
 2. **Configure the Database**:
    - Ensure PostgreSQL is installed and running.
