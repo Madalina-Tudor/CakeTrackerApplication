@@ -3,7 +3,7 @@
 
 ## Overview
 
-The Cake Tracker Application is designed to manage members for members birthday tracking system. It stores member information, ensures the uniqueness of each member based on specific fields( First Name, Last Name, Country, City), and provides functionality to sort members by their upcoming birthdays. The application is built using Java with PostgresSQL and Spring Boot. It uses JPA for database interactions.
+The Cake Tracker Application is designed to manage members for a birthday tracking system. It stores member information, ensures the uniqueness of each member based on specific fields( First Name, Last Name, Country, City), and provides functionality to sort members by their upcoming birthdays. The application is built using Java with PostgresSQL and Spring Boot. It uses JPA for database interactions.
 
 ## Table of Contents
 
