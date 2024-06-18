@@ -79,7 +79,7 @@ This is an example of a valid member who meets all the requirements.
 Response
 ```json
 {
-    "message": "Member added successfully!"
+    "message": "Member successfully added. :) "
 }
 ```
 
